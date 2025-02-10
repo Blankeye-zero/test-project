@@ -1,3 +1,5 @@
 THIS IS THE MAIN VERSION
 
-V1
+Added Notification Feature
+
+V1.1-notif
